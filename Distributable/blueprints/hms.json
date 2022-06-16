@@ -1,0 +1,18 @@
+{
+	"Name": "homemadesoup",
+	"RequiredGear": [ "GEAR_CattailStalk", "GEAR_ReishiPrepared", "GEAR_RosehipsPrepared" ],
+	"RequiredGearUnits": [ 2, 1, 1 ],
+	"KeroseneLitersRequired": 0,
+	"GunpowderKGRequired": 0,
+	"RequiredTool": "GEAR_Knife",
+	"OptionalTools": ["GEAR_KnifeImprovised", "GEAR_KnifeScrapMetal"],
+	"RequiredCraftingLocation": "Anywhere",
+	"RequiresLitFire": false,
+	"RequiresLight": true,
+	"CraftedResult": "GEAR_HomeMadeSoup",
+	"CraftedResultCount": 1,
+	"DurationMinutes": 1,
+	"CraftingAudio": "Play_CraftingReishi",
+	"AppliedSkill": "Cooking",
+	"ImprovedSkill": "Cooking"
+}
